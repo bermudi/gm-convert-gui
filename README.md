@@ -1,4 +1,4 @@
-# ImprovedGMConvertGUI
+# gm-convert-gui
 
 ## Installation
 
